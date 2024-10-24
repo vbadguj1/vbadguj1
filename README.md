@@ -1,4 +1,5 @@
 ## Hi there 👋
+I'm currently learning about Cloud Security, specially on Public Cloud Platforms
 
 <!--
 **vbadguj1/vbadguj1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
